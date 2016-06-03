@@ -1,0 +1,10 @@
+.DS_Store
+.env
+node_modules
+npm-debug.log
+backups
+old
+config
+
+server/node_modules
+wantit/node_modules
